@@ -68,7 +68,7 @@ Then there are **[first principles](/problem_solving/first_principles.md)** wh
 
 ### **Frame the problem differently**
 
-**[Abstraction laddering](/problem_solving/abstraction_laddering.md)** will help you find alternative and innovative solutions by defining a the right problem (of which your initial problem might only be a subset of). You can **[get a worksheet](https://gumroad.com/l/untools-worksheets)** to get started with this tool.
+**[Abstraction laddering](/problem_solving/abstraction_laddering.md)** will help you find alternative and innovative solutions by defining a the right problem (of which your initial problem might only be a subset of). 
 
 ### **Come up with creative solutions**
 
@@ -90,7 +90,6 @@ Then there are **[first principles](/problem_solving/first_principles.md)** wh
 
 **[Ladder of inference](/decision_making/ladder_of_inference.md)** is another tool to help you see if there's a gap in your thinking before you commit to a decision. With this tool, you'll avoid jumping to conclusions too early and make decisions based on reality.
 
-There are **[worksheets](https://gumroad.com/l/untools-worksheets)** for both of these tools.
 
 ### **Understand the situation before choosing a response**
 
@@ -102,7 +101,7 @@ It helps you to **categorize a situation and point you to the most appropriate 
 
 This is really a subset of decision-making: **"What should I be working on right now?"**
 
-A great prioritization tool is the **[Eisenhower matrix](/decision_making/eisenhower_matrix.md)**. It will enable you to prioritize your actions and tasks by importance and urgency. You can get the **[Eisenhower matrix as a worksheet](https://gumroad.com/l/untools-worksheets)** too.
+A great prioritization tool is the **[Eisenhower matrix](/decision_making/eisenhower_matrix.md)**. It will enable you to prioritize your actions and tasks by importance and urgency. 
 
 # **Systems-thinking tools**
 
@@ -110,7 +109,7 @@ A great prioritization tool is the **[Eisenhower matrix](/decision_making/eisen
 
 To **learn more about a system**, I recommend starting with the **[Connection circles](/systems_thinking/connection_circles.md)**.
 
-It's a great tool to map different elements of a system or a story and the relationships between them. You can get started with a **[Connection circles worksheet](https://gumroad.com/l/untools-worksheets)**.
+It's a great tool to map different elements of a system or a story and the relationships between them. 
 
 **The key benefit of** **connection circles is that they expose feedback loops** (both **[balancing](/systems_thinking/balancing_feedback_loop.md)** and **[reinforcing](/systems_thinking/reinforcing_feedback_loop.md)** loops). You can then move on to learning about those loops to really understand what's going on in the system.
 
@@ -118,4 +117,4 @@ It's a great tool to map different elements of a system or a story and the relat
 
 If you're looking to **uncover the root causes of some event**, use the **[Iceberg model](/systems_thinking/iceberg_model.md)**.
 
-It's a four-level model that allows you to see beyond what's obvious and think about the patterns, structures and mental-models that really drive the surface-level events. There's also a handy **[Iceberg model worksheet](https://gumroad.com/l/untools-worksheets)** to help you.
+It's a four-level model that allows you to see beyond what's obvious and think about the patterns, structures and mental-models that really drive the surface-level events. 
